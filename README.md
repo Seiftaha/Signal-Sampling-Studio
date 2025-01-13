@@ -29,7 +29,7 @@ Sampling-Theory Studio is a desktop application developed to illustrate the fund
 - Sampling and recovery operations update in real-time without requiring manual refreshes.
 
 ### 5. **Different Reconstruction Methods**
-- Explore multiple reconstruction methods, including Whittaker–Shannon interpolation.
+- Explore multiple reconstruction methods, including Whittaker–Shannon interpolation, Zero order hold and Linear Interpolation.
 - Select the preferred method from a dropdown menu to compare reconstruction performance.
 - Understand the pros and cons of each method with practical examples.
 
