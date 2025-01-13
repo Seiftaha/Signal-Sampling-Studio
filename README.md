@@ -47,7 +47,11 @@ Sampling-Theory Studio is a desktop application developed to illustrate the fund
 - **Programming Language:** Python (or specify language used)
 - Required libraries/modules: (list dependencies, e.g., `numpy`, `matplotlib`, `scipy`, etc.)
 
-### Installation
+### Setup Instructions
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/sampling-theory-studio.git
+
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
