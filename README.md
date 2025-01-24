@@ -41,6 +41,13 @@ Sampling-Theory Studio is a desktop application developed to illustrate the fund
   1. A mix of 2Hz and 6Hz sinusoids, demonstrating recovery at 12Hz and aliasing effects at 4Hz or 8Hz sampling rates.
   2. Additional test cases illustrating tricky or unique scenarios, exploiting potential pitfalls in signal recovery.
 
+## Demo video
+
+
+
+https://github.com/user-attachments/assets/b614c1ab-ddba-43b5-ac86-80fe0990167a
+
+
 ### Technologies Used
 - Python
 - PyQt
