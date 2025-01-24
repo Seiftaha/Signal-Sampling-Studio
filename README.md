@@ -41,16 +41,25 @@ Sampling-Theory Studio is a desktop application developed to illustrate the fund
   1. A mix of 2Hz and 6Hz sinusoids, demonstrating recovery at 12Hz and aliasing effects at 4Hz or 8Hz sampling rates.
   2. Additional test cases illustrating tricky or unique scenarios, exploiting potential pitfalls in signal recovery.
 
-## Getting Started
-
-### Prerequisites
-- **Programming Language:** Python (or specify language used)
+### Technologies Used
+- Python
+- PyQt
+- Pyqtgraph
 - Required libraries/modules: (list dependencies, e.g., `numpy`, `matplotlib`, `scipy`, etc.)
 
 ### Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/sampling-theory-studio.git
+   git clone https://github.com/seiftaha/sampling-theory-studio.git
+
+   
+## Contributors
+
+- [Saif mohamed](https://github.com/seiftaha)
+- [Mazen marwan](https://github.com/Mazenmarwan023)
+- [Mahmoud mohamed](https://github.com/mahmouddmo22)
+- [Farha](https://github.com/farha1010)
+- [Eman emad](https://github.com/alyaaa20)
 
 ## License
 
